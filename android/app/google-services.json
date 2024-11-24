@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621136941396",
+    "project_id": "diet-app-ad560",
+    "storage_bucket": "diet-app-ad560.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621136941396:android:d8c2711066cbc8d39778c1",
+        "android_client_info": {
+          "package_name": "com.example.diet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1s79ghpvs_jcYp3Ppi1egZo6Gqbw_9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
